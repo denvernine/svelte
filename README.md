@@ -1,3 +1,1 @@
-# sveltekit
-
-TypeScript + SCSS + ESLint + Prettier
+# volta + sveltekit
